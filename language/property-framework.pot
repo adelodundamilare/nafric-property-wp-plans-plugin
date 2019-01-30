@@ -1,0 +1,461 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Paid Property imithemes\n"
+"POT-Creation-Date: 2016-09-02 17:09+0530\n"
+"PO-Revision-Date: 2016-09-02 17:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: property.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Templates/template-payment.php:70 property_functions.php:89
+msgid "Plan Name: "
+msgstr ""
+
+#: Templates/template-payment.php:73
+msgid "Number of property: "
+msgstr ""
+
+#: Templates/template-payment.php:76
+msgid "Plan Price: "
+msgstr ""
+
+#: Templates/template-payment.php:91
+msgid "Sorry, but you are not authorized to access this page"
+msgstr ""
+
+#: Templates/template-payment.php:94
+msgid "Sorry, but you are not an agent of this website"
+msgstr ""
+
+#: Templates/template-price-listing.php:36
+msgid "Per Month"
+msgstr ""
+
+#: Templates/template-price-listing.php:47
+msgid "Sign up now!"
+msgstr ""
+
+#: property-payment.php:9
+msgid "Property Payment"
+msgstr ""
+
+#: property-payment.php:10 property_functions.php:5 property_functions.php:16
+msgid "Property Payments"
+msgstr ""
+
+#: property-payment.php:23
+msgid "Select Status"
+msgstr ""
+
+#: property-payment.php:24 property-payment.php:37
+msgid "Received"
+msgstr ""
+
+#: property-payment.php:25 property-payment.php:39
+msgid "Not received"
+msgstr ""
+
+#: property-payment.php:26 property-payment.php:38
+msgid "Pending"
+msgstr ""
+
+#: property-payment.php:34
+msgid "Update Payment Status for user"
+msgstr ""
+
+#: property-payment.php:43
+msgid "Enter Transaction ID"
+msgstr ""
+
+#: property-payment.php:47
+msgid "Update"
+msgstr ""
+
+#: property-payment.php:48
+msgid "Close"
+msgstr ""
+
+#: property-payment.php:56
+msgid "No property payments found."
+msgstr ""
+
+#: property-payment.php:75
+msgid "ID"
+msgstr ""
+
+#: property-payment.php:76
+msgid "Transaction Id"
+msgstr ""
+
+#: property-payment.php:77
+msgid "Status"
+msgstr ""
+
+#: property-payment.php:78
+msgid "Plan Name"
+msgstr ""
+
+#: property-payment.php:79
+msgid "Email"
+msgstr ""
+
+#: property-payment.php:80
+msgid "Paid By"
+msgstr ""
+
+#: property-payment.php:81
+msgid "Date"
+msgstr ""
+
+#: property-payment.php:82
+msgid "Amount in "
+msgstr ""
+
+#: property.php:30
+msgid "Payment Options"
+msgstr ""
+
+#: property.php:48
+msgid "Paid Listing Options"
+msgstr ""
+
+#: property.php:54
+msgid "Paypal Email Address:"
+msgstr ""
+
+#: property.php:58
+msgid "Paypal Token ID"
+msgstr ""
+
+#: property.php:62
+msgid "Paypal Currency"
+msgstr ""
+
+#: property.php:66
+msgid "<option value=\"USD\""
+msgstr ""
+
+#: property.php:66
+msgid ">US Dollar</option>"
+msgstr ""
+
+#: property.php:67
+msgid "<option value=\"AUD\""
+msgstr ""
+
+#: property.php:67
+msgid ">Australian Dollar</option>"
+msgstr ""
+
+#: property.php:68
+msgid "<option value=\"BRL\""
+msgstr ""
+
+#: property.php:68
+msgid ">Brazilian Real</option>"
+msgstr ""
+
+#: property.php:69
+msgid "<option value=\"CAD\""
+msgstr ""
+
+#: property.php:69
+msgid ">Canadian Dollar</option>"
+msgstr ""
+
+#: property.php:70
+msgid "<option value=\"CZK\""
+msgstr ""
+
+#: property.php:70
+msgid ">Czech Koruna</option>"
+msgstr ""
+
+#: property.php:71
+msgid "<option value=\"DKK\""
+msgstr ""
+
+#: property.php:71
+msgid ">Danish Krone</option>"
+msgstr ""
+
+#: property.php:72
+msgid "<option value=\"EUR\""
+msgstr ""
+
+#: property.php:72
+msgid ">Euro</option>"
+msgstr ""
+
+#: property.php:73
+msgid "<option value=\"HKD\""
+msgstr ""
+
+#: property.php:73
+msgid ">Hong Kong Dollar</option>"
+msgstr ""
+
+#: property.php:74
+msgid "<option value=\"HUF\""
+msgstr ""
+
+#: property.php:74
+msgid ">Hungarian Forint</option>"
+msgstr ""
+
+#: property.php:75
+msgid "<option value=\"ILS\""
+msgstr ""
+
+#: property.php:75
+msgid ">Israeli New Sheqel</option>"
+msgstr ""
+
+#: property.php:76
+msgid "<option value=\"JPY\""
+msgstr ""
+
+#: property.php:76
+msgid ">Japanese Yen</option>"
+msgstr ""
+
+#: property.php:77
+msgid "<option value=\"MYR\""
+msgstr ""
+
+#: property.php:77
+msgid ">Malaysian Ringgit</option>"
+msgstr ""
+
+#: property.php:78
+msgid "<option value=\"MXN\""
+msgstr ""
+
+#: property.php:78
+msgid ">Mexican Peso</option>"
+msgstr ""
+
+#: property.php:79
+msgid "<option value=\"NOK\""
+msgstr ""
+
+#: property.php:79
+msgid ">Norwegian Krone</option>"
+msgstr ""
+
+#: property.php:80
+msgid "<option value=\"NZD\""
+msgstr ""
+
+#: property.php:80
+msgid ">New Zealand Dollar</option>"
+msgstr ""
+
+#: property.php:81
+msgid "<option value=\"PHP\""
+msgstr ""
+
+#: property.php:81
+msgid ">Philippine Peso</option>"
+msgstr ""
+
+#: property.php:82
+msgid "<option value=\"PLN\""
+msgstr ""
+
+#: property.php:82
+msgid ">Polish Zloty</option>"
+msgstr ""
+
+#: property.php:83
+msgid "<option value=\"GBP\""
+msgstr ""
+
+#: property.php:83
+msgid ">Pound Sterling</option>"
+msgstr ""
+
+#: property.php:84
+msgid "<option value=\"SGD\""
+msgstr ""
+
+#: property.php:84
+msgid ">Singapore Dollar</option>"
+msgstr ""
+
+#: property.php:85
+msgid "<option value=\"SEK\""
+msgstr ""
+
+#: property.php:85
+msgid ">Swedish Krona</option>"
+msgstr ""
+
+#: property.php:86
+msgid "<option value=\"CHF\""
+msgstr ""
+
+#: property.php:86
+msgid ">Swiss Franc</option>"
+msgstr ""
+
+#: property.php:87
+msgid "<option value=\"TWD\""
+msgstr ""
+
+#: property.php:87
+msgid ">Taiwan New Dollar</option>"
+msgstr ""
+
+#: property.php:88
+msgid "<option value=\"THB\""
+msgstr ""
+
+#: property.php:88
+msgid ">Thai Baht</option>"
+msgstr ""
+
+#: property.php:89
+msgid "<option value=\"TRY\""
+msgstr ""
+
+#: property.php:89
+msgid ">Turkish Lira</option>"
+msgstr ""
+
+#: property.php:95
+msgid "Payment mode"
+msgstr ""
+
+#: property.php:99
+msgid "<option value=\"live\""
+msgstr ""
+
+#: property.php:99
+msgid ">Live</option>"
+msgstr ""
+
+#: property.php:100
+msgid "<option value=\"sandbox\""
+msgstr ""
+
+#: property.php:100
+msgid ">Sandbox</option>"
+msgstr ""
+
+#: property.php:105
+msgid "Payment button text:"
+msgstr ""
+
+#: property_functions.php:32
+msgid "Payments per page"
+msgstr ""
+
+#: property_functions.php:86
+msgid "This is the information of user."
+msgstr ""
+
+#: property_functions.php:87
+msgid "User Transaction ID: "
+msgstr ""
+
+#: property_functions.php:88
+msgid "User Name: "
+msgstr ""
+
+#: property_functions.php:90
+msgid "User Email: "
+msgstr ""
+
+#: property_functions.php:91
+msgid "User Phone: "
+msgstr ""
+
+#: property_functions.php:92
+msgid "User Address: "
+msgstr ""
+
+#: property_functions.php:93
+msgid "User Notes: "
+msgstr ""
+
+#: property_functions.php:163
+msgid "Your key is not valid"
+msgstr ""
+
+#: shortcode.php:19
+msgid ""
+"Error! Please enter your PayPal email address in payment options page under "
+"Appearance menu."
+msgstr ""
+
+#: shortcode.php:29
+msgid "Free Subscription"
+msgstr ""
+
+#: shortcode.php:33
+msgid "Pay Now"
+msgstr ""
+
+#: shortcode.php:62
+msgid "First name (Required)"
+msgstr ""
+
+#: shortcode.php:66
+msgid "Last name"
+msgstr ""
+
+#: shortcode.php:71
+msgid "Your email (Required)"
+msgstr ""
+
+#: shortcode.php:74
+msgid "Your phone"
+msgstr ""
+
+#: shortcode.php:79
+msgid "Your Address"
+msgstr ""
+
+#: shortcode.php:82
+msgid "Additional Notes"
+msgstr ""
+
+#: shortcode.php:111
+msgid "Choose plan"
+msgstr ""
+
+#: shortcode.php:113
+msgid ""
+"Sorry, you have exceeded the allowed free listing limit. Please purchase a "
+"paid plan to add more listings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Paid Property imithemes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin adds paid property functionality in Real Space theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.imithemes.com"
+msgstr ""
